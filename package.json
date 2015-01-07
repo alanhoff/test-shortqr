@@ -1,12 +1,12 @@
 {
   "name": "shortqr",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Teste de encurtamento de URLs e geraçao de QRCodes",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Alan Hoffmeister <alanhoffmeister@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.10.7",
